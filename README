@@ -1,0 +1,9 @@
+Closet Counter is a browser based application for tracking inventory for non-profit, non-monetary transaction clothes/goods providing organizations.  In other words, it keeps track of in-coming and out-going donations for "Salvation Army/Goodwill" like organizations who do not need to track associated financials when providing clothes and household articles to those in the community.
+
+It is built using the CodeIgniter PHP framework, a MySQL database to track transactions, and a CSS/XHTML user interface for recording donations, store transactions and calling up inventory reports.
+
+For more information or to help with the project please contact me 
+
+Thanks,
+Bryan Rankin
+bryan@fromtheirhands.org
